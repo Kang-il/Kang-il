@@ -60,7 +60,7 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/Kang-il/github-readme-stats">
+  <a href="https://github.com/Kang-il">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-il&layout=compact" />
   </a>
 </div>
